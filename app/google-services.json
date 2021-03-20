@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782671152324",
+    "project_id": "auth-4866f",
+    "storage_bucket": "auth-4866f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782671152324:android:15681aa89925377941b591",
+        "android_client_info": {
+          "package_name": "com.example.suicideideation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782671152324-rq9m2alsv5bnofbrvrljraoj7798hilu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlL9nl8eP5ottF6A6MAm_JcPEvVz_-8Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782671152324-rq9m2alsv5bnofbrvrljraoj7798hilu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
